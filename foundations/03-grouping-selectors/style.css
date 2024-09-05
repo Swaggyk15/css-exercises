@@ -1,0 +1,13 @@
+.boring{
+    background-color: black;
+    color: white;
+}
+
+.ew{
+    background-color: yellow;
+}
+
+.boring, .ew{
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
